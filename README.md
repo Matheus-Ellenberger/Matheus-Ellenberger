@@ -23,4 +23,4 @@ Apaixonado por tecnologia e admirador de um bom café ☕😋
 
 ## Contato:
 
-- [Podemos conversar através do Gmail](matheusellenberger@gmail.com)
+- Podemos conversar através do Gmail: matheusellenberger@gmail.com
