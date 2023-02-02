@@ -6,6 +6,8 @@
 
 ![Matheus Ellenberger GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Ellenberger&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ellenberger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
