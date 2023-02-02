@@ -4,7 +4,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/math3us_8)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusfs_8/)
 
-![Matheus Ellenberger GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Ellenberger&show_icons=true&theme=onedark)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Ellenberger&show_icons=true&theme=onedark)
 
 ## Tecnologias que utilizo no meu dia a dia
 
