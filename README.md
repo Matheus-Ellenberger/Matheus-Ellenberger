@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Matheus Ellenberger 🤙
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ellenberger/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/bugmath)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusfs_8/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Ellenberger&show_icons=true&theme=onedark)
