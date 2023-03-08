@@ -38,7 +38,7 @@
 
 
 
-### Studying in this moment:
+### Estudando no momento:
 <div display="flex">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align="center" alt="node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
