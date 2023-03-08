@@ -1,8 +1,12 @@
-### Olá! Eu sou o Matheus Ellenberger 🤙
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=120&section=header"/>
 
+
+# Midias
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ellenberger/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusfs_8/)
-
+<br>
+#
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Ellenberger&show_icons=true&theme=onedark)
 <br>
 ## Tecnologias que utilizo no meu dia a dia
 
